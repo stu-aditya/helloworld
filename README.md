@@ -25,4 +25,4 @@ Aplikasi ini hanya mencetak pesan "Hello, World!" ke layar. Meskipun sederhana, 
 2. Clone repositori ini atau unduh kode sumbernya. 
 
    ```bash
-   git clone https://github.com/username/hello-world.git
+   git clone https://github.com/stu-aditya/hello-world.git
