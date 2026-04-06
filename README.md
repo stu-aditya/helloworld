@@ -8,14 +8,14 @@ Aplikasi ini hanya mencetak pesan "Hello, World!" ke layar. Meskipun sederhana, 
 
 ## Fitur 🌟
 
-- Menampilkan teks "Hello, World!" di konsol. 📜
+- Menampilkan teks "Hello, World!" di browser. 📜
 - Mudah dimodifikasi untuk menambahkan fitur lebih lanjut. 🔧
 
 ## Teknologi yang Digunakan 🛠️
 
-- **Bahasa Pemrograman**: [Masukkan bahasa pemrograman di sini, contoh: Python, JavaScript, C++, dll.]
-- **IDE/Editor**: [Masukkan nama IDE atau editor yang digunakan, contoh: Visual Studio Code, PyCharm, dll.]
-- **Sistem Operasi**: [Masukkan sistem operasi yang digunakan, contoh: Windows, macOS, Linux, dll.]
+- **Bahasa Pemrograman**: HTML (Bukan bahasa pemrograman).
+- **IDE/Editor**: Visual Studio Code
+- **Sistem Operasi**: Windows
 
 ## Cara Menjalankan 🚀
 
